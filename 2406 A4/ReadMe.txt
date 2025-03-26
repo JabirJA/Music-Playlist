@@ -1,7 +1,3 @@
-Affidavit:
-I attest that I am the sole author of this submitted work and any code borrowed from other sources has been identified by commenbts placed in my submitted code. 
-Name: Jabir Jamal Abdussalam
-Student Number: 101315582
 
 Install Instructions: 
 npm install
